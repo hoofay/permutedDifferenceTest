@@ -2,8 +2,8 @@
 A function to perform a permuted difference test on two numeric vectors
 
 Three arguments:
-a = dataset 1
-b = dataset 2
+a = dataset 1 (vector, numerics)
+b = dataset 2 (vector, numerics)
 alpha = test statistic (0.05 by default)
 
 outputs:
